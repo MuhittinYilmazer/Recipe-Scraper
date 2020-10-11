@@ -5,6 +5,6 @@
 <h4>-PHP</h4>
 <h4>-Simple HTML DOM</h4>
 <h2>Features</h2>
-<h4>-Scrap some recipe from yemek.com</h4>
+<h4>-Scraps recipes from yemek.com</h4>
 <h2>Installation</h2>
 <h4>-Upload files to your localhost</h4>
